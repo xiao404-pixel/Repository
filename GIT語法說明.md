@@ -1,3 +1,4 @@
+# ps. ( ) 括弧代表不是指令、而是要自己定義的字
 # 設定相關:<br>
 git config --global user.name "(userName)"		設定帳號<br>
 git config --global user.email "(e-mail)"		設定E-mail<br>
