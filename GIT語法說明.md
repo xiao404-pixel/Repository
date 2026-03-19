@@ -7,8 +7,8 @@ git clone		抓遠端儲存庫下來<br>
 git init		Git 初始化	<br>
 rm -rf .git		移除 Git<br>
 # remote遠端設定:<br>
-git remote add (origin) (git@~.git)		遠端連結	
-git remote set-url (origin) (git@~.git)	-	修改遠端連結	
-git remote remove (origin)	-	移除遠端連結	
-git remote -v		查詢遠端連結(URL)	
-git push -u (origin) (master)		推上遠端並綁定	
+git remote add (origin) (git@~.git)             遠端連結<br>
+git remote set-url (origin) (git@~.git)	-       修改遠端連結<br>
+git remote remove (origin)	-	                移除遠端連結<br>
+git remote -v		                            查詢遠端連結(URL)<br>
+git push -u (origin) (master)		            推上遠端並綁定<br>
